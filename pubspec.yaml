@@ -9,7 +9,7 @@ environment:
 
 dependencies:
   matan: ^1.0.0
-  meta: ^1.8.0
+  meta: ^1.7.0
 
 dev_dependencies:
   coverage: ^1.3.2
